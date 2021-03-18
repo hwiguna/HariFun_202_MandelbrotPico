@@ -9,4 +9,4 @@ https://youtu.be/xloVxoMGJ0Y
 
 ![screenshot](/screenshot.jpg)
 
-![Schematic](/"SchematicScreenshot.jpg")
+![Schematic](/SchematicScreenshot.jpg)
