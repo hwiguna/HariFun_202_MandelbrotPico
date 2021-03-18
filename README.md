@@ -8,3 +8,5 @@ https://youtu.be/xloVxoMGJ0Y
 ![Thumbnail](/ThumbnailSmaller.jpg)
 
 ![screenshot](/screenshot.jpg)
+
+![Schematic](/Schematic Screenshot.jpg)
